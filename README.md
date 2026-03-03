@@ -25,7 +25,7 @@ Generate themed crossword puzzles from any web article. Paste a URL, and the app
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/crossword-puzzle-generator.git
+git clone https://github.com/jwong-med/crossword-puzzle-generator.git
 cd crossword-puzzle-generator
 
 # Install dependencies
