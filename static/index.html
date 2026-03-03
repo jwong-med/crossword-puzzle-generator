@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crossword Puzzle Generator</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="app">
+        <header class="header">
+            <div class="header-left">
+                <h1 class="logo">Crossword</h1>
+                <span class="header-divider"></span>
+                <span class="header-subtitle" id="puzzle-title">Puzzle Generator</span>
+            </div>
+            <div class="header-right">
+            </div>
+        </header>
+
+        <div class="input-section" id="input-section">
+            <div class="input-container">
+                <h2 class="input-heading">Generate a Crossword from Any Article</h2>
+                <p class="input-description">Enter a URL and we'll read the article, research related topics, and create a themed crossword puzzle.</p>
+                <form id="url-form" class="url-form">
+                    <input type="url" id="url-input" class="url-input" placeholder="Paste an article URL..." required>
+                    <button type="submit" class="generate-btn" id="generate-btn">Generate Puzzle</button>
+                </form>
+                <p class="demo-link">or <a href="#" id="demo-btn">try a demo puzzle</a> without an API key</p>
+            </div>
+        </div>
+
+        <div class="loading-section" id="loading-section" style="display:none;">
+            <div class="loading-container">
+                <div class="spinner"></div>
+                <p class="loading-text" id="loading-text">Fetching article...</p>
+                <p class="loading-subtext">This usually takes 20-30 seconds</p>
+            </div>
+        </div>
+
+        <div class="error-section" id="error-section" style="display:none;">
+            <div class="error-container">
+                <p class="error-icon">!</p>
+                <p class="error-text" id="error-text"></p>
+                <button class="generate-btn" id="try-again-btn">Try Again</button>
+            </div>
+        </div>
+
+        <div class="puzzle-section" id="puzzle-section" style="display:none;">
+            <div class="puzzle-summary" id="puzzle-summary"></div>
+
+            <div class="puzzle-toolbar" id="puzzle-toolbar" style="display:none;">
+                <button class="header-btn" id="btn-check" title="Check puzzle">Check</button>
+                <button class="header-btn" id="btn-reveal-word" title="Reveal current word">Reveal Word</button>
+                <button class="header-btn" id="btn-reveal-all" title="Reveal all answers">Reveal All</button>
+                <button class="header-btn" id="btn-clear" title="Clear all entries">Clear</button>
+            </div>
+
+            <div class="puzzle-layout">
+                <div class="grid-container">
+                    <div class="crossword-grid" id="crossword-grid" tabindex="0"></div>
+                </div>
+
+                <div class="clues-container">
+                    <div class="clues-panel">
+                        <h3 class="clues-heading">ACROSS</h3>
+                        <ol class="clues-list" id="across-clues"></ol>
+                    </div>
+                    <div class="clues-panel">
+                        <h3 class="clues-heading">DOWN</h3>
+                        <ol class="clues-list" id="down-clues"></ol>
+                    </div>
+                </div>
+            </div>
+
+            <div class="active-clue-bar" id="active-clue-bar">
+                <span class="active-clue-number" id="active-clue-number"></span>
+                <span class="active-clue-text" id="active-clue-text">Click a cell to begin</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/api.js"></script>
+    <script src="/static/js/grid.js"></script>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
