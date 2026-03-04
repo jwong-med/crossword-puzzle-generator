@@ -41,20 +41,10 @@ def serve_static(path):
 
 @app.route('/api/test', methods=['POST'])
 def test_puzzle():
-    """Return a pre-built puzzle for UI testing (no API key required)."""
-    test_words = [
-        'PYTHON', 'ALGORITHM', 'CROSSWORD', 'PUZZLE', 'GRID', 'CLUE',
-        'ACROSS', 'DOWN', 'WORD', 'LETTER', 'CELL', 'BLACK', 'WHITE',
-        'NUMBER', 'THEME', 'ARTICLE', 'KEYWORD', 'SEARCH', 'GENERATE', 'FLASK',
-        'CODE', 'DATA', 'ARRAY', 'INDEX', 'STACK', 'QUEUE', 'LOOP', 'CLASS',
-    ]
-    grid, placed = generate_crossword(test_words)
-    clues = {pw.word: f'Clue for {pw.word.lower()}' for pw in placed}
-    result = grid_to_json(grid, placed, clues)
-    result['summary'] = 'A crossword about programming and computer science concepts.'
-    result['title'] = 'Programming Crossword'
-    result['wordCount'] = len(placed)
-    return jsonify(result)
+    """Return a pre-built demo puzzle (no API key required)."""
+    demo_path = os.path.join(STATIC_DIR, 'demo_puzzle.json')
+    with open(demo_path) as f:
+        return jsonify(json.load(f))
 
 
 @app.route('/api/generate', methods=['POST'])

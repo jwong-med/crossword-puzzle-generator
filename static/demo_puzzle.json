@@ -1,0 +1,1285 @@
+{
+  "grid": [
+    [
+      {
+        "black": false,
+        "letter": "C",
+        "number": 1
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": false,
+        "letter": "B",
+        "number": 2
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "G",
+        "number": 3
+      },
+      {
+        "black": false,
+        "letter": "E",
+        "number": 4
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "H",
+        "number": 5
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "G",
+        "number": 6
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "H"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "I",
+        "number": 7
+      },
+      {
+        "black": false,
+        "letter": "N"
+      },
+      {
+        "black": false,
+        "letter": "D"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": false,
+        "letter": "X"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "D",
+        "number": 8
+      },
+      {
+        "black": false,
+        "letter": "I"
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": false,
+        "letter": "R"
+      },
+      {
+        "black": false,
+        "letter": "Y"
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "T",
+        "number": 9
+      },
+      {
+        "black": false,
+        "letter": "H"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 10
+      },
+      {
+        "black": false,
+        "letter": "D"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "I"
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "S",
+        "number": 11
+      },
+      {
+        "black": false,
+        "letter": "T",
+        "number": 12
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 13
+      },
+      {
+        "black": false,
+        "letter": "R",
+        "number": 14
+      },
+      {
+        "black": false,
+        "letter": "T"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 15
+      },
+      {
+        "black": false,
+        "letter": "D"
+      },
+      {
+        "black": false,
+        "letter": "D"
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "P",
+        "number": 16
+      },
+      {
+        "black": false,
+        "letter": "Y"
+      },
+      {
+        "black": false,
+        "letter": "T"
+      },
+      {
+        "black": false,
+        "letter": "H"
+      },
+      {
+        "black": false,
+        "letter": "O"
+      },
+      {
+        "black": false,
+        "letter": "N"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 17
+      },
+      {
+        "black": false,
+        "letter": "L"
+      },
+      {
+        "black": false,
+        "letter": "G"
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": false,
+        "letter": "E",
+        "number": 18
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "R",
+        "number": 19
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "D",
+        "number": 20
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 21
+      },
+      {
+        "black": false,
+        "letter": "W",
+        "number": 22
+      },
+      {
+        "black": false,
+        "letter": "N"
+      }
+    ],
+    [
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "C",
+        "number": 23
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "M",
+        "number": 24
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 25
+      },
+      {
+        "black": false,
+        "letter": "T"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "L",
+        "number": 26
+      },
+      {
+        "black": false,
+        "letter": "O"
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "T",
+        "number": 27
+      },
+      {
+        "black": false,
+        "letter": "H"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": false,
+        "letter": "M"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "T",
+        "number": 28
+      },
+      {
+        "black": false,
+        "letter": "I"
+      },
+      {
+        "black": false,
+        "letter": "P",
+        "number": 29
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "T",
+        "number": 30
+      },
+      {
+        "black": false,
+        "letter": "R"
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "L"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "C",
+        "number": 31
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": false,
+        "letter": "R",
+        "number": 32
+      },
+      {
+        "black": false,
+        "letter": "T",
+        "number": 33
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "O",
+        "number": 34
+      },
+      {
+        "black": false,
+        "letter": "D"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      }
+    ],
+    [
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "L"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "B",
+        "number": 35
+      },
+      {
+        "black": false,
+        "letter": "L"
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": false,
+        "letter": "N"
+      },
+      {
+        "black": false,
+        "letter": "C"
+      },
+      {
+        "black": false,
+        "letter": "H",
+        "number": 36
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "F",
+        "number": 37
+      },
+      {
+        "black": false,
+        "letter": "L",
+        "number": 38
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 39
+      },
+      {
+        "black": false,
+        "letter": "R"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "O",
+        "number": 40
+      },
+      {
+        "black": false,
+        "letter": "B",
+        "number": 41
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 42
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "A",
+        "number": 43
+      },
+      {
+        "black": false,
+        "letter": "C",
+        "number": 44
+      },
+      {
+        "black": false,
+        "letter": "E",
+        "number": 45
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 46
+      },
+      {
+        "black": false,
+        "letter": "X"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "K",
+        "number": 47
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": false,
+        "letter": "Y"
+      },
+      {
+        "black": false,
+        "letter": "W"
+      },
+      {
+        "black": false,
+        "letter": "O"
+      },
+      {
+        "black": false,
+        "letter": "R"
+      },
+      {
+        "black": false,
+        "letter": "D"
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "C",
+        "number": 48
+      },
+      {
+        "black": false,
+        "letter": "L"
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": false,
+        "letter": "S"
+      },
+      {
+        "black": false,
+        "letter": "S"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "N"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "A",
+        "number": 49
+      },
+      {
+        "black": false,
+        "letter": "R"
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "U",
+        "number": 50
+      },
+      {
+        "black": false,
+        "letter": "R"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "T"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "C"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "O"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "R",
+        "number": 51
+      },
+      {
+        "black": false,
+        "letter": "A"
+      },
+      {
+        "black": true
+      }
+    ],
+    [
+      {
+        "black": false,
+        "letter": "E",
+        "number": 52
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": false,
+        "letter": "L"
+      },
+      {
+        "black": false,
+        "letter": "S"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "W",
+        "number": 53
+      },
+      {
+        "black": false,
+        "letter": "H"
+      },
+      {
+        "black": false,
+        "letter": "I"
+      },
+      {
+        "black": false,
+        "letter": "T"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      },
+      {
+        "black": true
+      },
+      {
+        "black": true
+      },
+      {
+        "black": false,
+        "letter": "D",
+        "number": 54
+      },
+      {
+        "black": false,
+        "letter": "Y"
+      },
+      {
+        "black": false,
+        "letter": "E"
+      }
+    ]
+  ],
+  "words": {
+    "across": [
+      {
+        "number": 1,
+        "answer": "CAB",
+        "row": 0,
+        "col": 0,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Vehicle with a partitioned rear section"
+      },
+      {
+        "number": 7,
+        "answer": "INDEX",
+        "row": 1,
+        "col": 4,
+        "length": 5,
+        "isThemed": true,
+        "clue": "Pointer to a specific element in an array, e.g."
+      },
+      {
+        "number": 8,
+        "answer": "DIARY",
+        "row": 1,
+        "col": 10,
+        "length": 5,
+        "isThemed": false,
+        "clue": "Daily record of events or thoughts"
+      },
+      {
+        "number": 13,
+        "answer": "ART",
+        "row": 3,
+        "col": 8,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Form of creative expression, from coding to painting"
+      },
+      {
+        "number": 15,
+        "answer": "ADD",
+        "row": 3,
+        "col": 12,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Math operation for programmers"
+      },
+      {
+        "number": 16,
+        "answer": "PYTHON",
+        "row": 4,
+        "col": 0,
+        "length": 6,
+        "isThemed": true,
+        "clue": "Popular open-source programming language, briefly"
+      },
+      {
+        "number": 17,
+        "answer": "ALGAE",
+        "row": 4,
+        "col": 7,
+        "length": 5,
+        "isThemed": false,
+        "clue": "Slimy growth on pond walls"
+      },
+      {
+        "number": 20,
+        "answer": "DAWN",
+        "row": 5,
+        "col": 11,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Time of day when the morning light breaks through the digital haze"
+      },
+      {
+        "number": 24,
+        "answer": "MEAT",
+        "row": 6,
+        "col": 4,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Carnivore's choice"
+      },
+      {
+        "number": 27,
+        "answer": "THEME",
+        "row": 7,
+        "col": 0,
+        "length": 5,
+        "isThemed": true,
+        "clue": "Central idea of this crossword puzzle"
+      },
+      {
+        "number": 28,
+        "answer": "TIP",
+        "row": 7,
+        "col": 6,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Something you might give to your server at a restaurant"
+      },
+      {
+        "number": 31,
+        "answer": "CART",
+        "row": 8,
+        "col": 7,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Shopping aid with wheels"
+      },
+      {
+        "number": 34,
+        "answer": "ODE",
+        "row": 8,
+        "col": 12,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Poetic form or mathematical equation?"
+      },
+      {
+        "number": 35,
+        "answer": "BLANCH",
+        "row": 9,
+        "col": 6,
+        "length": 6,
+        "isThemed": false,
+        "clue": "Turn pale, as from fright or shock"
+      },
+      {
+        "number": 37,
+        "answer": "FLARE",
+        "row": 10,
+        "col": 3,
+        "length": 5,
+        "isThemed": false,
+        "clue": "Lightning bolt's fiery burst"
+      },
+      {
+        "number": 43,
+        "answer": "ACE",
+        "row": 11,
+        "col": 0,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Perfect score in a programming challenge"
+      },
+      {
+        "number": 46,
+        "answer": "AXE",
+        "row": 11,
+        "col": 4,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Tree-cutting tool with a sharp edge"
+      },
+      {
+        "number": 47,
+        "answer": "KEYWORD",
+        "row": 11,
+        "col": 8,
+        "length": 7,
+        "isThemed": true,
+        "clue": "Search term in a programming language"
+      },
+      {
+        "number": 48,
+        "answer": "CLASS",
+        "row": 12,
+        "col": 0,
+        "length": 5,
+        "isThemed": true,
+        "clue": "Object-oriented programming construct, e.g."
+      },
+      {
+        "number": 52,
+        "answer": "EELS",
+        "row": 14,
+        "col": 0,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Fish with slender bodies and no scales"
+      },
+      {
+        "number": 53,
+        "answer": "WHITE",
+        "row": 14,
+        "col": 5,
+        "length": 5,
+        "isThemed": true,
+        "clue": "Color not found in a grayscale image"
+      },
+      {
+        "number": 54,
+        "answer": "DYE",
+        "row": 14,
+        "col": 12,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Coloring process or error message?"
+      }
+    ],
+    "down": [
+      {
+        "number": 1,
+        "answer": "CHEAP",
+        "row": 0,
+        "col": 0,
+        "length": 5,
+        "isThemed": false,
+        "clue": "Discounted prices at the tech conference"
+      },
+      {
+        "number": 2,
+        "answer": "BEAST",
+        "row": 0,
+        "col": 2,
+        "length": 5,
+        "isThemed": false,
+        "clue": "Fierce creature from myth or legend"
+      },
+      {
+        "number": 3,
+        "answer": "GET",
+        "row": 0,
+        "col": 7,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Acquire something, often informally"
+      },
+      {
+        "number": 4,
+        "answer": "EXHALE",
+        "row": 0,
+        "col": 8,
+        "length": 6,
+        "isThemed": false,
+        "clue": "What a programmer does after coding all night"
+      },
+      {
+        "number": 5,
+        "answer": "HID",
+        "row": 0,
+        "col": 11,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Concealed something from view"
+      },
+      {
+        "number": 6,
+        "answer": "GRID",
+        "row": 0,
+        "col": 13,
+        "length": 4,
+        "isThemed": true,
+        "clue": "Layout of squares used in this puzzle format"
+      },
+      {
+        "number": 8,
+        "answer": "DATA",
+        "row": 1,
+        "col": 10,
+        "length": 4,
+        "isThemed": true,
+        "clue": "Information stored and processed by computers"
+      },
+      {
+        "number": 12,
+        "answer": "THE",
+        "row": 3,
+        "col": 3,
+        "length": 3,
+        "isThemed": false,
+        "clue": "Article used to introduce a noun"
+      },
+      {
+        "number": 17,
+        "answer": "ARTICLE",
+        "row": 4,
+        "col": 7,
+        "length": 7,
+        "isThemed": true,
+        "clue": "Typographical unit with headings and subheadings"
+      },
+      {
+        "number": 21,
+        "answer": "ALTO",
+        "row": 5,
+        "col": 12,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Soprano's range or vocal register?"
+      },
+      {
+        "number": 22,
+        "answer": "WORD",
+        "row": 5,
+        "col": 13,
+        "length": 4,
+        "isThemed": true,
+        "clue": "Basic unit of text, like a character or token"
+      },
+      {
+        "number": 23,
+        "answer": "CELL",
+        "row": 6,
+        "col": 2,
+        "length": 4,
+        "isThemed": true,
+        "clue": "Unit of a spreadsheet or grid"
+      },
+      {
+        "number": 35,
+        "answer": "BREACH",
+        "row": 9,
+        "col": 6,
+        "length": 6,
+        "isThemed": false,
+        "clue": "Opening or breaking through a defensive line"
+      },
+      {
+        "number": 36,
+        "answer": "HOW",
+        "row": 9,
+        "col": 11,
+        "length": 3,
+        "isThemed": false,
+        "clue": "In what way, colloquially"
+      },
+      {
+        "number": 38,
+        "answer": "LAST",
+        "row": 10,
+        "col": 4,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Final or end of something"
+      },
+      {
+        "number": 41,
+        "answer": "BOARD",
+        "row": 10,
+        "col": 12,
+        "length": 5,
+        "isThemed": false,
+        "clue": "Where programmers often work, from circuit boards to whiteboards"
+      },
+      {
+        "number": 42,
+        "answer": "ARRAY",
+        "row": 10,
+        "col": 13,
+        "length": 5,
+        "isThemed": true,
+        "clue": "Data structure in computer science"
+      },
+      {
+        "number": 44,
+        "answer": "CLUE",
+        "row": 11,
+        "col": 1,
+        "length": 4,
+        "isThemed": true,
+        "clue": "Hint for solvers like you to figure out the answer"
+      },
+      {
+        "number": 45,
+        "answer": "EARL",
+        "row": 11,
+        "col": 2,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Title for a lord or noble figure in medieval literature"
+      },
+      {
+        "number": 47,
+        "answer": "KNOT",
+        "row": 11,
+        "col": 8,
+        "length": 4,
+        "isThemed": false,
+        "clue": "Tying up loose ends in code"
+      }
+    ]
+  },
+  "size": 15,
+  "summary": "A crossword about programming and computer science concepts.",
+  "title": "Programming Crossword",
+  "wordCount": 42
+}
