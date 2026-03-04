@@ -1,7 +1,7 @@
 /**
  * Crossword grid rendering and interaction module.
  */
-class CrosswordGrid {
+export class CrosswordGrid {
     constructor(containerEl, cluesContainerAcross, cluesContainerDown, activeClueBar) {
         this.container = containerEl;
         this.cluesAcross = cluesContainerAcross;

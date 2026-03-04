@@ -4,7 +4,7 @@ Generate themed crossword puzzles from any web article. Paste a URL, and the app
 
 **[Try the live demo](https://jwong-med.github.io/crossword-puzzle-generator/)**
 
-![Crossword Puzzle Generator](https://img.shields.io/badge/python-3.9+-blue) ![Flask](https://img.shields.io/badge/flask-3.0-green)
+![Node.js](https://img.shields.io/badge/node.js-18+-green) ![Express](https://img.shields.io/badge/express-4.x-blue)
 
 ## How It Works
 
@@ -18,7 +18,7 @@ Generate themed crossword puzzles from any web article. Paste a URL, and the app
 
 ### Prerequisites
 
-- Python 3.9+
+- Node.js 18+
 - One of:
   - [Ollama](https://ollama.com) with `llama3.1:8b` (free, runs locally)
   - An [Anthropic API key](https://console.anthropic.com/) (uses Claude)
@@ -31,7 +31,7 @@ git clone https://github.com/jwong-med/crossword-puzzle-generator.git
 cd crossword-puzzle-generator
 
 # Install dependencies
-pip install -r requirements.txt
+npm install
 
 # Configure LLM (pick one)
 
@@ -46,7 +46,7 @@ cp .env.example .env
 ### Run
 
 ```bash
-python server.py
+npm start
 ```
 
 Open [http://localhost:8080](http://localhost:8080) in your browser.
@@ -64,24 +64,24 @@ A demo puzzle is available without any API key — click "try a demo puzzle" on 
 
 ```
 .
-├── server.py              # Flask app and API routes
+├── server.js                # Express app and API routes
 ├── lib/
-│   ├── article_fetcher.py # Web scraping and content extraction
-│   ├── keyword_extractor.py # LLM keyword extraction
-│   ├── crossword_generator.py # Grid generation algorithm
-│   ├── clue_generator.py  # LLM clue generation
-│   ├── llm_client.py      # Ollama / Anthropic API client
-│   └── word_list.py       # Crossword fill word database
+│   ├── article-fetcher.js   # Web scraping and content extraction
+│   ├── keyword-extractor.js # LLM keyword extraction
+│   ├── crossword-generator.js # Grid generation algorithm
+│   ├── clue-generator.js    # LLM clue generation
+│   ├── llm-client.js        # Ollama / Anthropic API client
+│   └── word-list.js         # Crossword fill word database
 ├── static/
-│   ├── index.html         # Single-page app
-│   ├── css/style.css      # Styling
+│   ├── index.html           # Single-page app
+│   ├── css/style.css        # Styling
 │   └── js/
-│       ├── app.js         # UI orchestration
-│       ├── grid.js        # Interactive grid and keyboard nav
-│       └── api.js         # API client
-├── requirements.txt
-├── .env.example           # Environment config template
-└── start.sh               # Convenience start script
+│       ├── app.js           # UI orchestration
+│       ├── grid.js          # Interactive grid and keyboard nav
+│       └── api.js           # API client
+├── package.json
+├── .env.example             # Environment config template
+└── start.sh                 # Convenience start script
 ```
 
 ## Configuration

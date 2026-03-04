@@ -1,0 +1,28 @@
+{
+  "name": "crossword-puzzle-generator",
+  "version": "1.0.0",
+  "description": "Generate themed crossword puzzles from any web article using AI",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev:server": "node --watch server.js",
+    "dev:client": "npx vite --config vite.config.js",
+    "dev": "npm run dev:server & npm run dev:client",
+    "build": "npx vite build --config vite.config.js",
+    "preview": "npm run build && node server.js"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.0",
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}

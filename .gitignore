@@ -1,17 +1,13 @@
 # Environment
 .env
-venv/
-.venv/
+node_modules/
 
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
+# Build output
 dist/
-build/
 
-# Flask
-instance/
+# Node
+npm-debug.log*
+yarn-error.log*
 
 # IDE / Editor
 .vscode/

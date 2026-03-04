@@ -1,7 +1,7 @@
 /**
  * API communication module for the crossword generator.
  */
-const API = {
+export const API = {
     /**
      * Generate a crossword puzzle from an article URL.
      * @param {string} url - The article URL
