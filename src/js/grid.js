@@ -166,7 +166,7 @@ export class CrosswordGrid {
 
         const key = e.key;
 
-        if (key >= 'a' && key <= 'z' || key >= 'A' && key <= 'Z') {
+        if (key.length === 1 && (key >= 'a' && key <= 'z' || key >= 'A' && key <= 'Z')) {
             e.preventDefault();
             this._enterLetter(key.toUpperCase());
         } else if (key === 'Backspace') {
