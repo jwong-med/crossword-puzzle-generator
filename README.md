@@ -2,6 +2,8 @@
 
 Generate themed crossword puzzles from any web article. Paste a URL, and the app extracts keywords, builds a 15x15 crossword grid, and generates clues — all tied to the article's theme.
 
+**[Try the live demo](https://jwong-med.github.io/crossword-puzzle-generator/)**
+
 ![Crossword Puzzle Generator](https://img.shields.io/badge/python-3.9+-blue) ![Flask](https://img.shields.io/badge/flask-3.0-green)
 
 ## How It Works
